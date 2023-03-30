@@ -35,3 +35,11 @@ p {
 .title {
     text-align: center;
 }
+
+.floating-card {
+    background-color: red;
+    float: left;
+    width: 200px;
+    height: 200px;
+    border: 1px solid yellow;
+}
