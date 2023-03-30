@@ -39,10 +39,12 @@ p {
 
 span {
     color: white;
+    font-size: .8rem;
 }
 
 a {
     color: #28caf2;
+    font-size: .8rem;
 }
 
 img {
@@ -61,4 +63,10 @@ img {
     float: left;
     width: 31%;
     margin: 2% 1%;
+}
+
+.employee-informations {
+    float: left;
+    padding: 15px;
+    line-height: 22px;
 }
