@@ -11,7 +11,27 @@
   display: table;
 }
 
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+
 main {
     width: 80%;
     margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Rowdies', cursive;
+    color: #e53170;
+    font-size: 2rem;
+    padding: 20px;
+}
+
+p {
+    font-size: .9rem;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
 }
